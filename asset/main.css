@@ -1,0 +1,30 @@
+header{
+    height: 100vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+div{
+    text-align:center; 
+    width: 60%;
+    margin: auto;
+    padding-top: 15%;
+}
+div h1{
+    font-size: 80px;
+}
+div h2{
+    font-style: italic;
+    font-size: 24px;
+    margin: 20px 0;
+}
+div button{
+    background-color: #196d87;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    font-weight: lighter;
+    margin: 25px 0;
+    color: #fff;
+}
